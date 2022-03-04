@@ -1,0 +1,59 @@
+{
+"bank":"SIRIUS BANK",
+"admin":[{"adminname":"sushmitha",
+          "password":"78493"
+          },
+          {"adminname":"harieharan",
+          "password":"23121"
+          },
+          {"adminname":"muthuprasanth",
+          "password":"23121"}],
+"customers":[
+          {"name":"suganya",
+           "id" :"101",
+           "cards":[
+                    {"cardno":"70017002",
+                     "password":"1234",
+                     "balance":"10000",
+                     "active":true
+                     },
+                    {"cardno":"80018002",
+                     "password":"7896",
+                     "balance":"20000",
+                     "active":true}]
+             },
+            {"name":"gokul",
+             "id":"102",
+             "cards":[
+                     {"cardno":"90019002",
+                      "password":"4932",
+                       "balance":"9000",
+                       "active":false
+                      },
+                      {"cardno":"10011002",
+                       "password":"7575",
+                       "balance":"2345",
+ 					   "active":true
+ 					  },
+  					 {"cardno":"20012002",
+  					  "password":"3456",
+     				  "balance":"80000",
+ 				      "active":true}]
+    	    },
+            {"name":"mithun",
+             "id":"103",
+  			 "cards":[
+  			         {"cardno":"30013002",
+  					  "password":"5849",
+  					  "balance":"56000",
+  				      "active":true
+                      },
+  					  {"cardno":"40014002",
+ 					   "password":"9876",
+					   "balance":"50000",
+ 					   "active":false}]
+ 			 }
+   
+             ]
+
+}
